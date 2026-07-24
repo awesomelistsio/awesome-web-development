@@ -137,6 +137,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [PageSpeed Insights](https://pagespeed.web.dev/) – Performance insights powered by real user metrics.
 - [ImageOptim](https://imageoptim.com/mac) – Image compression tool for reducing asset size.
 - [Bundlephobia](https://bundlephobia.com/) – Estimates package size and performance impact before installing.
+- [Meta Tag Checker](https://meta-tag-checker.appsnap.co.uk/) – Free meta tag checker and SEO auditor for validating title, description, Open Graph, and Twitter Card tags.
 
 ## Security
 
