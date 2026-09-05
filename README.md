@@ -1,4 +1,4 @@
-# Awesome Web Development [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Web Development [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1114190782.svg)](https://doi.org/10.5281/zenodo.19682092)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -165,10 +165,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- [Awesome APIs](https://github.com/awesomelistsio/awesome-apis)
-- [Awesome Sass](https://github.com/awesomelistsio/awesome-saas)
-- [Awesome Cloud](https://github.com/awesomelistsio/awesome-cloud)
-- [Awesome Web Security](https://github.com/awesomelistsio/awesome-web-security)
+- [Awesome APIs](https://github.com/brandonhimpfen/awesome-apis)
+- [Awesome Sass](https://github.com/brandonhimpfen/awesome-saas)
+- [Awesome Cloud](https://github.com/brandonhimpfen/awesome-cloud)
+- [Awesome Web Security](https://github.com/brandonhimpfen/awesome-web-security)
 
 ## Contribute
 
